@@ -1,0 +1,142 @@
+[[systemtap]]
+arch = "x86_64"
+git-tree-sha1 = "b96362cbbf3d363cfb3fe994485d1a6e4ff3ce95"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "1e9f0131a5ccca3308886320294b1b9c5f21a0891fac9c68b09f5eb68f8a3a28"
+    url = "https://github.com/local/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.x86_64-linux-gnu.tar.gz"
+[[systemtap]]
+arch = "i686"
+git-tree-sha1 = "5c74597eac0151f659a75f2813d6abb43b23b7d6"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "fe9ff211e851d62fd6847c1d00cd904868a299ab4ec2699bce671e67fb5b0611"
+    url = "https://github.com/local/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.i686-linux-gnu.tar.gz"
+[[systemtap]]
+arch = "aarch64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c12fcc48189538ca39fdebf907a3a2c298ebdb11"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "dee2fccf782a0e695a3d2e2ad3a6a8a7640961d4b73bae753c6629e6651a3413"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.aarch64-linux-gnu-cxx03.tar.gz"
+[[systemtap]]
+arch = "aarch64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "1ef663b81f12d7af7c5a8b7189fe80a428b7e122"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "01337274fe25dc930f66b2ac85d7e46c3c620c558ad3a7e786cd6dec142f0a85"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.aarch64-linux-gnu-cxx11.tar.gz"
+[[systemtap]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "d8fbdee73462604d31b05181b4f1f298efeb0014"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "006e134e76d9f4a559536247bcc96ea4823e9e30b167a18513aa3ffa4598cd72"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.armv6l-linux-gnueabihf-cxx03.tar.gz"
+[[systemtap]]
+arch = "armv6l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "c86c1a2ba8ec19a39e2c545167ef8c9d7597bc5c"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "ac69c8d0a3476db455b309930b36b3b87d8685de4b66be214b42da54f17aac02"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.armv6l-linux-gnueabihf-cxx11.tar.gz"
+[[systemtap]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "142d840778b7e00ad38a4f79131731167e5ef452"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "239363aa042848db8ac0df4cc4bbe37f77f67ff3d62004cc6d6a19f4320fa24e"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.armv7l-linux-gnueabihf-cxx03.tar.gz"
+[[systemtap]]
+arch = "armv7l"
+call_abi = "eabihf"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "ebb74bf5874be8c54bd8ca28bd5056797a524861"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "7cf3792716367c147db90f3758c4f84f973208c07f7957e694436b6665c7722a"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.armv7l-linux-gnueabihf-cxx11.tar.gz"
+[[systemtap]]
+arch = "i686"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "c7dfeea411c35660d98df1f09d523f08689bce8c"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "8c8afeeaa3393875115d68f9b7e02250889e7f1d06ae3d99147b4e0a43f17b98"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.i686-linux-gnu-cxx03.tar.gz"
+[[systemtap]]
+arch = "i686"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "5c74597eac0151f659a75f2813d6abb43b23b7d6"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "fe9ff211e851d62fd6847c1d00cd904868a299ab4ec2699bce671e67fb5b0611"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.i686-linux-gnu-cxx11.tar.gz"
+[[systemtap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "15ffc85107427916b5b14dce64c40fecd4b882ef"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "b2d33dedc42f935f50c88200e2713823ea3245deddd3f93ad7874581f58c0a40"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.powerpc64le-linux-gnu-cxx03.tar.gz"
+[[systemtap]]
+arch = "powerpc64le"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "de979ab2cc6a08110462d98cffab7b067b089047"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "7887159457274949a2f3ead107d5961c182e13729eaf30aacd99228565c43766"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.powerpc64le-linux-gnu-cxx11.tar.gz"
+[[systemtap]]
+arch = "x86_64"
+cxxstring_abi = "cxx03"
+git-tree-sha1 = "99bb740d571b0799b9ae889a9d15a88937dd3bb2"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "800bedf86aedb69f83135da92548433e8d60d4eb397760bf4cff9c1bc5b144d0"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.x86_64-linux-gnu-cxx03.tar.gz"
+[[systemtap]]
+arch = "x86_64"
+cxxstring_abi = "cxx11"
+git-tree-sha1 = "b96362cbbf3d363cfb3fe994485d1a6e4ff3ce95"
+libc = "glibc"
+os = "linux"
+
+    [[systemtap.download]]
+    sha256 = "1e9f0131a5ccca3308886320294b1b9c5f21a0891fac9c68b09f5eb68f8a3a28"
+    url = "https://github.com/Mellich/systemtap_jll.jl/releases/download/systemtap-v4.6.0+0/systemtap.v4.6.0.x86_64-linux-gnu-cxx11.tar.gz"
